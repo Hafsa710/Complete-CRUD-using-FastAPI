@@ -1,2 +1,2 @@
 # Complete-CRUD-using-FastAPI
-Complete CRUD using FastAPI, SQLAlchemy, Python &amp; PostgreSQL
+This is a project template which uses FastAPI,SQLAlchemy, Python , PostgreSQL & SQLModel as ORM which already is compatible with Pydantic V2 and SQLAlchemy V2.0. It shows a complete async CRUD template using authentication. Our implementation utilizes the newest version of FastAPI and incorporates typing hints that are fully compatible with Python >=3.12.4. If you're looking to build modern and efficient web applications with Python, this template will provide you with the necessary tools to get started quickly
